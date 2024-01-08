@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object:👂 heard 
   - this
-  - arrow function
+  - arrow function:👂 heard
   - async function
   - call
   - bind
@@ -41,10 +41,10 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if:👂 heard
+  - while:👂 heard
+  - do..while:👂 heard
+  - for:👂 heard
   - for..in
   - for..of
   - for await
