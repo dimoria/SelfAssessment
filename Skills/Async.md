@@ -8,7 +8,7 @@
   - Thread pool
   - Pattern Reactor
   - CAS operations
-  - epoll
+  - epoll:👂 heard
   - kqueue
   - Completion ports
   - Event ports
@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks:👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
@@ -60,7 +60,7 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
-  - setImmediate
+  - setImmediate:👂 heard
   - nextTick
   - AbortController
   - AbortSignal
@@ -70,7 +70,7 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell:👂 heard
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -92,4 +92,4 @@
   - IPC
   - Channel API
   - Revealing Constructor
-  - Web Locks API
+  - Web Locks API:👂 heard
