@@ -1,0 +1,137 @@
+C++
+cin / cout: 🖐️ used
+comments: 🖐️ used
+functions: 🖐️ used
+parameters and arguments of functions:  🎓 known
+variables: 🖐️ used
+preprocessor directives: 👂 heard
+basic data types: 🖐️ used
+pragma:  🎓 known
+namespace:  🎓 known
+void: 🖐️ used
+literals and magic numbers: 👂 heard
+operators: 🖐️ used
+increment / decrement: 🖐️ used
+sizeof(): 🖐️ used
+bool: 🖐️ used
+local and global variables: 🖐️ used
+static: 👂 heard
+using:  🎓 known
+typedef:🎓  known
+type alias:🎓  known
+enum: 🎓 known
+structures:🎓 known
+auto: 🎓 known
+conditions (if, else...): 🖐️ used
+switch: 🖐️ used
+goto: 🖐️ known
+while:🖐️  used
+do while:🖐️  used
+for: 🖐️ used
+break / continue:🖐️  used
+rand() / srand(): 🖐️ used
+pointers: 🎓 known
+references: 🎓 known
+array: 🖐️ used
+std::string_view: 👂 heard
+std::string: 🎓 known
+std::wstring:
+new delete:👂  heard
+std::array:🖐️ used
+std::vector: 👂 heard
+functions:👂 heard
+function overloading:👂  heard
+recursion: 👂 heard
+cerr / exit():👂  heard
+ellipsis:👂  heard
+lambda expressions: 👂 heard
+OOP: 🎓 known
+classes / objects: 🎓 known
+class methods:🎓  known
+constructors: 🖐️ used
+destructor: 🎓 known
+access specifiers:🎓  known
+encapsulation: 🎓 known
+inheritance: 🎓 known
+polymorphism: 👂 heard
+exceptions: 👂 heard
+this: 🎓 known
+friendly functions and classes: 🎓 known
+anonymous objects: 👂 heard
+operator overloading: 🎓 known
+explicit / delete: 👂 heard
+composition: 👂 heard
+aggregation: 👂 heard
+association: 👂 heard
+dependence: 👂heard
+std::initializer_list: 👂heard
+override / final: 👂 heard
+virtual functions:👂 heard
+dynamic_cast:
+std::move(): 👂 heard
+std::auto_ptr:
+std::unique_ptr:
+std::shared_ptr:
+std::weak_ptr:
+singly linked list: 🖐️ used
+doubly linked list: 🎓 known
+stack: 🖐️ used
+binary tree: 🎓 known
+queue: 🖐️ used
+STL containers:
+STL iterators:
+STL algorithms:
+array: 🖐️ used
+deque: 👂 heard
+forward_list:
+list: 👂 heard
+map: 🖐️ used
+queue: 👂 heard
+set: 👂 heard
+stack:
+unordered_map:
+unordered_set:
+vector: 👂 heard
+algorithm: 👂 heard
+chrono: 👂 heard
+functional: 👂heard
+iterator: 🖐️ used
+memory: 👂 heard
+stdexcept:
+tuple:
+utility (std::pair):
+locale:
+codecvt:
+string: 🖐️ used
+regex:
+fstream: 🖐️ used
+iomanip: 👂 heard
+iostream: 🖐️ used
+istream: 👂 heard
+ostream: 👂 heard
+sstream: 🖐️ used
+streambuf: 👂 heard 
+exception: 👂 heard
+limits: 👂 heard
+typeinfo: 👂 heard
+thread: 🖐️ used
+random: 🖐️ used
+cstdbool: 👂 heard
+climits: 👂 heard
+ciso646: 👂 heard
+cctype: 👂 heard
+cerrno: 👂 heard
+cassert: 👂 heard
+ctime: 👂 heard
+clocale: 👂 heard
+ofstream:
+ifstream: 
+fstream: 🖐️ used
+mutex:
+future:
+Other: 👂 heard
+static_cast: 🎓 known
+const_cast: 👂 heard
+reinterpret_cast
+lvalue / rvalue: 👂 heard
+templates: 🎓 known
