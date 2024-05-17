@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object:👂 heard 
-  - this
-  - arrow function:👂 heard
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
+  - Object:🖐️ used
+  - this:🖐️ used
+  - arrow function:🖐️ used
+  - async function:👂 heard 
+  - call:👂 heard 
+  - bind:🖐️ used
+  - apply:🖐️ used
+  - instanceof:👂 heard 
+  - ...spread:👂 heard 
+  - ...rest:👂 heard 
+  - typeof:🖐️ used
   - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - generator:🖐️ used
+  - iterator:🖐️ used
+  - async generator:👂 heard 
+  - async iterator:👂 heard 
+  - chaining:👂 heard 
+  - optional chaining:👂 heard 
+  - IIFE:👂 heard 
+  - global:👂 heard 
+  - globalThis:👂 heard 
+  - window:👂 heard 
+  - getters and setters:👂 heard 
+  - __proto__:👂 heard 
+  - prototype:👂 heard 
+  - equality operators:🖐️ used
+  - logical operators:🖐️ used
+  - bitwise operators👂 heard 
+  - ternary operator🖐️ used
+  - void:🖐️ used
+  - yield:👂 heard
+  - await:👂 heard 
   - template literal
   - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - delete:👂 heard 
+  - in:👂 heard 
+  - super:👂 heard
+  - Symbol:👂 heard
+  - Reflect:👂 heard
 - Statements
-  - if:👂 heard
-  - while:👂 heard
-  - do..while:👂 heard
-  - for:👂 heard
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if::🖐️ used
+  - while::🖐️ used
+  - do..while::🖐️ used
+  - for::🖐️ used
+  - for..in:👂 heard 
+  - for..of:👂 heard 
+  - for await:👂 heard 
+  - throw:👂 heard 
+  - break:👂 heard 
+  - continue:👂 heard 
+  - import:👂 heard 
+  - export:👂 heard 
+  - label:👂 heard 
+  - try..catch:👂 heard 
+  - switch:👂 heard 
+  - class:👂 heard 
+  - new Error:👂 heard 
+  - with:👂 heard 
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration:🖐️ used
+  - function expression:🖐️ used
+  - return:🖐️ used
+  - default parameters:👂 heard 
+  - functional object:👂 heard 
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array:🖐️ used
+  - mixin:👂 heard
+  - extend:👂 heard 
+  - typed arrays:👂 heard 
+  - Map:👂 heard 
+  - Set:🖐️ used
+  - undefined:👂 heard 
+  - null:🖐️ used
+  - Proxy:👂 heard 
+  - weak collections:👂 heard 
+  - timers:🖐️ used
+  - EventEmitter:👂 heard 
+  - RegExp:👂 heard 
+  - Date:👂 heard 
+  - BigInt:👂 heard 
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8:👂 heard 
+  - Node.js:👂 heard 
+  - npm:👂 heard 
+  - prettier:👂 heard 
+  - MDN:👂 heard 
